@@ -1,0 +1,7 @@
+name: compat-batteries
+dependencies:
+  - base
+  - base-compat-batteries
+
+library:
+  source-dirs: src

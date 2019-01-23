@@ -1,0 +1,7 @@
+resolver: lts-13.3
+packages:
+- compat/
+- compat-batteries/
+extra-deps:
+- git: https://github.com/qrilka/doctest
+  commit: 207821acdf216286a6a0c7ee0e83a67573ecca89
